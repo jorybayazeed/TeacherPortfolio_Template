@@ -1,0 +1,11 @@
+{
+  "title": "TeacherPortfolio_Template",
+  "description": "يقدم موقع بورتفوليو رقمي احترافي باللغة العربية لعرض مسيرة وإنجازات معلم في إدارة التعليم بالسعودية بشكل رسمي وأنيق.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
